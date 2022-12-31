@@ -1,0 +1,15 @@
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\bin\Debug\net7.0\Ex56.exe
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\bin\Debug\net7.0\Ex56.deps.json
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\bin\Debug\net7.0\Ex56.runtimeconfig.json
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\bin\Debug\net7.0\Ex56.dll
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\bin\Debug\net7.0\Ex56.pdb
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\obj\Debug\net7.0\Ex56.csproj.AssemblyReference.cache
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\obj\Debug\net7.0\Ex56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\obj\Debug\net7.0\Ex56.AssemblyInfoInputs.cache
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\obj\Debug\net7.0\Ex56.AssemblyInfo.cs
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\obj\Debug\net7.0\Ex56.csproj.CoreCompileInputs.cache
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\obj\Debug\net7.0\Ex56.dll
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\obj\Debug\net7.0\refint\Ex56.dll
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\obj\Debug\net7.0\Ex56.pdb
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\obj\Debug\net7.0\Ex56.genruntimeconfig.cache
+C:\Users\kate\Documents\Sharp\Homerwork1\HomerworkSharp8\Ex56\obj\Debug\net7.0\ref\Ex56.dll
